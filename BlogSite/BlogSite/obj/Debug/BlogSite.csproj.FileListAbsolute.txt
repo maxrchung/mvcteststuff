@@ -1,0 +1,122 @@
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\BlogSite.dll.config
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\BlogSite.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\BlogSite.pdb
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Antlr3.Runtime.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\EntityFramework.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\EntityFramework.SqlServer.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Google.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Newtonsoft.Json.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Owin.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Net.Http.Formatting.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Helpers.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Http.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Http.WebHost.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Mvc.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Optimization.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Razor.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.WebPages.Deployment.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.WebPages.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.WebPages.Razor.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\WebGrease.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Helpers.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Mvc.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Optimization.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Razor.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.WebPages.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.WebPages.Deployment.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.WebPages.Razor.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Antlr3.Runtime.pdb
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Newtonsoft.Json.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Net.Http.Formatting.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Http.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\System.Web.Http.WebHost.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\EntityFramework.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\EntityFramework.SqlServer.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Google.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\obj\Debug\BlogSite.dll
+c:\users\wax chug da gwad\documents\visual studio 2013\Projects\BlogSite\BlogSite\obj\Debug\BlogSite.pdb
+C:\Users\Wax Chug da Gwad\Documents\Visual Studio 2013\Projects\BlogSite\BlogSite\obj\Debug\BlogSite.csprojResolveAssemblyReference.cache
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\BlogSite.dll.config
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\BlogSite.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\BlogSite.pdb
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Antlr3.Runtime.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\EntityFramework.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Newtonsoft.Json.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Owin.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Net.Http.Formatting.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Helpers.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Http.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Http.WebHost.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Mvc.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Optimization.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Razor.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.WebPages.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\WebGrease.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Helpers.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Mvc.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Optimization.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Razor.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.WebPages.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Antlr3.Runtime.pdb
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Newtonsoft.Json.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Net.Http.Formatting.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Http.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\System.Web.Http.WebHost.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\EntityFramework.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\obj\Debug\BlogSite.csprojResolveAssemblyReference.cache
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\obj\Debug\BlogSite.dll
+C:\Users\Wax Chug da Gwad\Desktop\mvcteststuff\BlogSite\BlogSite\obj\Debug\BlogSite.pdb

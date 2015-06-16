@@ -1,0 +1,85 @@
+﻿@model BlogSite.Models.Post
+
+@{
+    ViewBag.Title = Html.DisplayFor(model => model.Title);
+}
+
+<h2>
+    @Html.DisplayFor(model => model.Title)
+</h2>
+
+<div>
+    <h4>Post</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Comments)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Comments)
+        </dd>
+
+    </dl>
+</div>
+
+@Html.Partial("CreateComment", new ViewDataDictionary())
+
+<input id="Submit" name="iamcool" type="button" value="Submit" />
+
+@section Scripts
+{
+    <script>
+        $('#Submit').click(function () {
+            var nameVal = $('#Name').val();
+            var emailVal = $('#Email').val();
+            var messageVal = $('#Message').val();
+
+            $.ajax({
+                url: '@Url.Action("Sample", "Comments")',
+                contentType: 'application/json; charset=utf-8',
+                type: 'POST',
+                dataType: "html"
+            })
+
+            .success(function (result) {
+                alert(result);
+            })
+
+            .error(function (result) {
+                alert(result[0]);
+            })
+        });
+    </script>
+}
+
+<!-- data: {CommentID: '1',Date: '10/10/10',Name: 'asdf',Email: 'asdf',Message: 'asdf',PostID: '@@Html.DisplayFor(model => model.PostID)'},-->
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PostID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
